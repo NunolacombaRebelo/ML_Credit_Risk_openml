@@ -27,7 +27,7 @@ Open **ML_Model_Credit_Risk.ipynb** and run all cells.
 ## Repository contents
 - `ML_Model_Credit_Risk.ipynb` — full workflow (EDA → modeling → tuning → evaluation)
 - `README.md` — project description and instructions
-- (Optional) `.gitignore`, `requirements.txt` or `environment.yml`
+
 
 ## Data
 Dataset: **OpenML credit-g**. The notebook loads the data programmatically; raw data files are not committed.
